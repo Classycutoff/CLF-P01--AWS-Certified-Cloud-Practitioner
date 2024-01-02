@@ -1,0 +1,23 @@
+# Management And Governance Services
+---------------
+## List of Resources
+- [[Billing and Cost Reports]]
+	- Budgets
+	- Cost and Usage Report
+	- Cost Explorer
+	- AWS Pricing Calculator
+	- AWS Pricing Calculator vs AWS Cost Explorer
+- [[AWS IAM]]
+- [[AWS Organizations]]
+- [[AWS Config]]
+- [[AWS OpsWorks]]
+- [[AWS Systems Manager]]
+- [[AWS Trusted Advisor]]
+- [[AWS CloudFormation]]
+- [[AWS CloudTrail]]
+- [[Amazon CloudWatch]]
+- [[AWS Management console]]
+- [[Personal Health Dashboard]]
+- [[AWS Systems Manager Parameter Store]]
+- [[AWS Managed Services]]
+- [[Amazon EventBridge]]

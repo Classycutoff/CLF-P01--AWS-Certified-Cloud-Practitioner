@@ -1,0 +1,1 @@
+When transitioning from on-premises to the cloud or adopting a new solution, there are costs associated with migration, training, data transfer, and implementation. These expenses should be included in the TCO analysis to provide a complete picture.

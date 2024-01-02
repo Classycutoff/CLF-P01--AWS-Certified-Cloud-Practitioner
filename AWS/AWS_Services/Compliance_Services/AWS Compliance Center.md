@@ -1,0 +1,1 @@
+The AWS Compliance Center is a comprehensive resource that provides information about AWS's compliance programs, certifications, and regulations. It includes details about various compliance frameworks, industry standards, and third-party audits that AWS has undergone.

@@ -1,0 +1,1 @@
+An identity in [[AWS IAM]] refers to an entity that can be authenticated. It could be a person, an application, or even a service. AWS IAM identities are used to represent who or what is requesting access to AWS resources. Identity is a fundamental concept because it's the basis for authentication and authorization decisions.

@@ -1,0 +1,1 @@
+Bucket policies allow you to control access to entire buckets.

@@ -1,0 +1,2 @@
+  
+AWS Backup is an Amazon Web Services service that provides a centralized platform for managing and automating backups across various AWS resources. It simplifies data protection by offering a consistent way to create, manage, and restore backups across multiple services, helping organizations ensure data integrity, compliance, and recovery readiness.

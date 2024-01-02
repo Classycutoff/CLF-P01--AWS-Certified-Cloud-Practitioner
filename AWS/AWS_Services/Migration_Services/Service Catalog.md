@@ -1,0 +1,1 @@
+Create and manage catalogs of IT services that are approved for use on AWS

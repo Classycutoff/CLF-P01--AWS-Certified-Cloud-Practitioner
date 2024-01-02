@@ -1,0 +1,3 @@
+# AWS Global Accelerator
+---------
+AWS Global Accelerator is a service provided by Amazon Web Services (AWS) that improves the availability and performance of applications by utilizing a globally distributed network infrastructure. It routes traffic across multiple AWS [[region]]s and endpoints, directing users to the nearest and most responsive endpoint based on health, latency, and routing policies.

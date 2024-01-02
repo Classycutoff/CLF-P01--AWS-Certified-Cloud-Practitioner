@@ -1,0 +1,1 @@
+These are ongoing day-to-day expenses incurred during the operational phase. OpEx includes costs related to maintenance, utilities, salaries of operational staff, training, support, and other ongoing costs required to keep the asset functioning efficiently.

@@ -1,0 +1,1 @@
+AWS Systems Manager is a management service that simplifies the operational tasks of configuring, managing, and automating AWS resources at scale. It provides features for system patching, configuration management, instance monitoring, and automation to maintain the health and compliance of your infrastructure.

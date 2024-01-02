@@ -1,0 +1,1 @@
+These servers are strategically positioned in data centers, often near major internet exchange points or in regions with high user traffic. These locations are referred to as "edge" locations.

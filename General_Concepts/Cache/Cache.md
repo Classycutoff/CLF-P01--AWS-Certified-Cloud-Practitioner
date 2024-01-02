@@ -1,0 +1,1 @@
+Cache is a high-speed temporary storage that stores frequently accessed data to reduce the time it takes to retrieve that data later. It speeds up data access by storing copies of frequently used information closer to the user or application, reducing the need to fetch data from slower sources like disk drives or the internet.

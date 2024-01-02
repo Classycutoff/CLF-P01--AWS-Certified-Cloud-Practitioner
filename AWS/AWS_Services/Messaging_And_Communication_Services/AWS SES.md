@@ -1,0 +1,1 @@
+AWS Simple Email Service (SES) is a cloud-based email sending and receiving service provided by Amazon Web Services. It helps you send transactional, marketing, and notification emails, and it can also be used to receive incoming emails. SES simplifies email management, offers high deliverability rates, and provides features like email templates and analytics.

@@ -1,0 +1,1 @@
+At the end of an asset's useful life, there may be costs associated with decommissioning, disposal, or replacing the asset. Depreciation expenses might also need to be factored into the TCO analysis to accurately assess the financial impact over time.

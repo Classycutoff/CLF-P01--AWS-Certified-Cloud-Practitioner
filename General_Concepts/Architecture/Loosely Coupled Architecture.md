@@ -1,0 +1,3 @@
+Loosely coupled architecture refers to a design approach where components or modules in a system are independent and interact with each other through well-defined interfaces. These components can be modified, replaced, or upgraded without causing major disruptions to the entire system. This promotes flexibility, [[scalability]], and easier maintenance, as changes in one component have minimal impact on others. In contrast, tightly coupled architectures have stronger interdependencies between components, making changes more challenging and increasing the risk of system-wide failures.
+
+Opposite of [[Monolithic]] Architecture.

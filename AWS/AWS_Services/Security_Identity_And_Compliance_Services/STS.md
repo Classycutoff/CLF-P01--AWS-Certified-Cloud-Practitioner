@@ -1,0 +1,3 @@
+# AWS Security Token Service (STS)
+
+A web service for requesting temporary, limited-privilege credentials for AWS Identity and Access Management ([[AWS IAM]]) [LINK](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.iam.en.html "A web service that enables Amazon Web Services customers to manage users and user permissions within AWS.") users or for users that you authenticate (federated users).

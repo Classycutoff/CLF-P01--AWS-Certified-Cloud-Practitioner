@@ -1,0 +1,9 @@
+# Service Control Policies (SCPs)
+
+Organization SCPs allow you to create permissions guardrails that apply to all accounts within a given organization. [Service control policies (SCPs)](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html "null")
+
+---------
+
+Service control policies (SCPs) are a type of organization policy that you can use to manage permissions in your organization. SCPs offer central control over the maximum available permissions for all accounts in your organization. SCPs help you to ensure your accounts stay within your organization’s access control guidelines. SCPs are available only in an organization that has [all features enabled](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_org_support-all-features.html). SCPs aren't available if your organization has enabled only the consolidated billing features. For instructions on enabling SCPs, see [Enabling and disabling policy types](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_enable-disable.html).
+
+SCPs alone are not sufficient in granting permissions to the accounts in your organization. No permissions are granted by an SCP. An SCP defines a guardrail, or sets limits, on the actions that the account's administrator can delegate to the IAM users and roles in the affected accounts. The administrator must still attach [identity-based or resource-based policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html) to IAM users or roles, or to the resources in your accounts to actually grant permissions. The [effective permissions](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html#scp-effects-on-permissions) are the logical intersection between what is allowed by the SCP and what is allowed by the IAM and resource-based policies.

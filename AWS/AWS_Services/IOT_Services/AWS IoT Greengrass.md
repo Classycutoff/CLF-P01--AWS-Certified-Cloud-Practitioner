@@ -1,0 +1,1 @@
+**AWS IoT Greengrass:** Extends cloud capabilities to edge devices, enabling local data processing, device communication, and reducing latency.

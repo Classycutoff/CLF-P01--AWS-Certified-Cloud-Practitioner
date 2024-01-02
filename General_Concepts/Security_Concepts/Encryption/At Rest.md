@@ -1,0 +1,1 @@
+Encryption at rest, also referred to as "data at rest" encryption, is designed to safeguard data when it's stored on persistent storage devices, such as hard drives, solid-state drives, or databases. This prevents unauthorized access to the data even if the storage device is physically compromised.

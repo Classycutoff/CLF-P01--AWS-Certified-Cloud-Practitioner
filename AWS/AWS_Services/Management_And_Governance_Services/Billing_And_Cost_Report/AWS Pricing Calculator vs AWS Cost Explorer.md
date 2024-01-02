@@ -1,0 +1,3 @@
+[[AWS Cost Explorer]] is after you are in AWS. visualize, understand, and identify trends for future charges, as well as manage your AWS costs and usage over time.
+
+[[AWS Pricing Calculator]] is for before you are in AWS: It provides an estimate of AWS fees and charges. Since the company knows the workload details, the AWS Pricing Calculator can also help with calculating the total cost of ownership.

@@ -1,0 +1,4 @@
+
+- [[Serverless]] compute for [[Containers]].
+
+AWS Fargate is a serverless, pay-as-you-go compute engine that lets you focus on building applications without managing servers. AWS Fargate is compatible with both [Amazon Elastic Container Service](https://aws.amazon.com/ecs/?pg=ln&sec=hiw) ([[Amazon ECS]]) and [Amazon Elastic Kubernetes Service](https://aws.amazon.com/eks/?pg=ln&sec=hiw) ([[Amazon EKS]]). Select any OCI-compliant container image, define memory and compute resources, and run the container with serverless compute. With multiple CPU architectures and operating systems supported, you can enjoy the benefits across a wide variety of applications.

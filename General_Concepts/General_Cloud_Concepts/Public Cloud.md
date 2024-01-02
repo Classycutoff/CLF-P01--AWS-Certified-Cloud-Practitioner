@@ -1,0 +1,1 @@
+A public cloud is a cloud infrastructure that is shared among multiple organizations and users, provided by a cloud service provider. It offers resources over the internet on a [[pay-as-you-go]] basis. Public clouds are known for their scalability, ease of use, and cost efficiency.

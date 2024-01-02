@@ -1,0 +1,1 @@
+CLI stands for Command-Line Interface. It is a text-based interface that allows users to interact with a computer program or operating system by entering commands as text rather than using a graphical user interface (GUI). CLIs are commonly used in software development, system administration, and various technical tasks.

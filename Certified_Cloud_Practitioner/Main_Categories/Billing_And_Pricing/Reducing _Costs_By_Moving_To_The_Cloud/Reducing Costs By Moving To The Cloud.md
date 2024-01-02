@@ -1,0 +1,10 @@
+1. [[Right-Sized Infrastructure]]
+2. [[Benefits of Automation]]
+3. [[Reduce Compliance Scope]]
+5. [[Managed Services]]
+5. [[Economies of Scale]]
+6. [[Pay-as-You-Go]] Model
+7. [[Reduced Downtime and Business Continuity]]
+8. [[Improved Development and Deployment Efficiency]]
+9. [[Resource Consolidation]]
+10. [[Global Reach and Reduced Latency]]

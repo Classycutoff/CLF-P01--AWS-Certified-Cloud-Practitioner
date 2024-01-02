@@ -1,0 +1,3 @@
+Gateway Load Balancer helps you easily deploy, scale, and manage your third-party virtual appliances. It gives you one gateway for distributing traffic across multiple virtual appliances while scaling them up or down, based on demand. This decreases potential points of failure in your network and increases availability.  
+  
+You can find, test, and buy virtual appliances from third-party vendors directly in AWS Marketplace. This integrated experience streamlines the deployment process so you see value from your virtual appliances more quickly—whether you want to keep working with your current vendors or try something new.

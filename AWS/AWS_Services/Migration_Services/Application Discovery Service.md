@@ -1,0 +1,1 @@
+Collects server specification information, performance data, and details of running processes and network connections

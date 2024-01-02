@@ -1,0 +1,5 @@
+# Memcache
+------
+
+## Tags
+- [[Cache]]

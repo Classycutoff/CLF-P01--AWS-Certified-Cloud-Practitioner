@@ -1,0 +1,1 @@
+**AWS IoT Analytics:** Ingests, processes, and analyzes IoT data to extract insights and patterns, enabling informed decision-making.

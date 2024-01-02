@@ -1,0 +1,1 @@
+Routers are a type of gateway that connects multiple networks together. They determine the best path for data packets to travel between networks and manage traffic based on [[IP address]]es. Routers are essential for directing data across the internet.

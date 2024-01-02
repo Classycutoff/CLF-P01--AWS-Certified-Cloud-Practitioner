@@ -1,0 +1,1 @@
+The AWS Personal Health Dashboard is a service that provides personalized and real-time information about the status of your AWS resources and services. It offers proactive notifications, alerts, and recommendations to help you monitor and maintain the health of your AWS environment.

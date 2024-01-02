@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "72846f04048dc62c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6876c7cc41ed11fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f3b0373be6f6400",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4ffeeed244715c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9e029dd382594ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "347831949dd81fb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abd035fd32bcaa7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "security group",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5499cb34e718ab20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "right": {
+    "id": "ca706bd0dc545e22",
+    "type": "split",
+    "children": [
+      {
+        "id": "5333f7ca3b68be0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db4ae224bf95357",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f24738de86ec587d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca8474985dc78401",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65340e9b31231dc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "92bff8ff49912f6e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1f3b0373be6f6400",
+  "lastOpenFiles": [
+    "Certified_Cloud_Practitioner/AWS Certified Cloud Practitioner (CLF-C01) Exam Guide.md",
+    "AWS/AWS_Services/Management_And_Governance_Services/Billing_And_Cost_Report/AWS Cost Explorer.md",
+    "General_Concepts/Programming/API.md",
+    "AWS/AWS_Services/Support_Services/Support_Plans/When does the benefits begin?.md",
+    "AWS/AWS_Services/Support_Services/Support_Plans/Support Plans.md",
+    "AWS/AWS_Services/Support_Services/AWS Technical Account Manager.md",
+    "AWS/AWS_Services/Support_Services/AWS Knowledge Center.md",
+    "AWS/AWS_Services/Database Services/Amazon DynamoDB.md",
+    "AWS/AWS_Services/Database Services/Amazon RDS.md",
+    "AWS/AWS_Services/Analytics_Services/AWS Redshift.md",
+    "AWS/AWS_Concepts/Categories_of_Services/Categories of Services.md",
+    "AWS/AWS_Services/Network_Services/AWS Global Accelerator.md",
+    "AWS/AWS_Services/Network_Services/AWS CloudFront.md",
+    "AWS/AWS_Concepts/Edge/benefits of Edge Locations.md",
+    "General_Concepts/Network/General_Knowledge/VPN.md",
+    "General_Concepts/General_Cloud_Concepts/Different types of cloud deployment.md",
+    "General_Concepts/General_Cloud_Concepts/Private Cloud.md",
+    "General_Concepts/General_Cloud_Concepts/Public Cloud.md",
+    "General_Concepts/Different_Services/IaC.md",
+    "AWS/AWS_Services/Third_Party_Services/AWS Marketplace.md",
+    "AWS/AWS_Services/Management_And_Governance_Services/AWS_IAM/Protection of Root Accounts.md",
+    "AWS/AWS_Services/Management_And_Governance_Services/AWS_IAM/Tasks that require use of root accounts.md",
+    "AWS/AWS_Services/Management_And_Governance_Services/AWS_IAM/Policies/IAM Policies.md",
+    "AWS/AWS_Services/Management_And_Governance_Services/AWS_IAM/IAM Roles.md",
+    "AWS/AWS_Services/Management_And_Governance_Services/AWS_IAM/AWS IAM.md",
+    "AWS/AWS_Services/Management_And_Governance_Services/AWS_IAM/Entities.md",
+    "Certified_Cloud_Practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf",
+    "Certified_Cloud_Practitioner/Questions",
+    "General_Concepts/Network/Network Gateways",
+    "General_Concepts/Network/General_Knowledge",
+    "General_Concepts/Network/Network_Security",
+    "General_Concepts/Network/Area_Network",
+    "General_Concepts/Network/Subnet",
+    "AWS/AWS_Concepts/Categories_of_Services",
+    "General_Concepts/General_Cloud_Concepts",
+    "AWS/AWS_Services/Third_Party_Services",
+    "Pictures/Pasted image 20230809145336.png",
+    "Pictures/Pasted image 20230810092919.png",
+    "Pictures/Pasted image 20230809145551.png",
+    "Pictures/Pasted image 20230809145439.png",
+    "Pictures/Pasted image 20230809145426.png",
+    "Pictures/Pasted image 20230809145406.png"
+  ]
+}

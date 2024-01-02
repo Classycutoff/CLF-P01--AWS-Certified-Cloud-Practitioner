@@ -1,0 +1,1 @@
+A DDoS, or Distributed Denial of Service, attack is a type of cyberattack where multiple compromised computers (often referred to as "botnets") are used to flood a target system, network, or website with a massive volume of traffic. The goal of a DDoS attack is to overwhelm the target's resources, causing it to become unavailable to legitimate users.

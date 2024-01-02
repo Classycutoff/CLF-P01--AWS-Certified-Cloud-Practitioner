@@ -1,0 +1,2 @@
+  
+AWS Systems Manager Parameter Store is a service within Amazon Web Services that securely stores and manages configuration data, secrets, and other sensitive information. It provides a central location to store parameters such as database strings, [[API]] keys, and passwords, which can be securely accessed by applications, services, and instances. Parameter Store helps simplify the management and distribution of configuration data across an organization's AWS resources while ensuring data security and compliance.

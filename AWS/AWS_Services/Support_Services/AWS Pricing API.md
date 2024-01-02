@@ -1,0 +1,3 @@
+- The AWS Pricing API allows you to programmatically access AWS pricing information, enabling you to integrate pricing data into your applications, tools, or scripts. The AWS Pricing API provides programmatic access to pricing data for various AWS services, usage types, and regions. You can use the Pricing API to retrieve detailed pricing information based on your requirements.
+    
+    To access the AWS Pricing API, you'll need to make API calls using appropriate endpoints and authentication methods. You can find more information about the AWS Pricing API, including endpoints and documentation, in the [AWS Pricing API documentation](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/using-pelong.html).

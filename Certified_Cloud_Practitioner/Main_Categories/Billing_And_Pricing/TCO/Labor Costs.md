@@ -1,0 +1,1 @@
+Labor costs are associated with personnel required to operate, manage, and maintain the asset or system. This includes salaries, benefits, training, and other expenses related to the workforce. In the case of on-premises operations, labor costs can be significant due to the need for in-house IT staff to manage and maintain the infrastructure.

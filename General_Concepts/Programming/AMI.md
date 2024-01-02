@@ -1,0 +1,1 @@
+An Amazon Machine Image (AMI) is a pre-configured virtual machine image used to create instances (virtual servers) on Amazon Web Services (AWS). It contains the operating system, software, and settings needed to launch a virtual server. AMIs save time by providing a consistent setup for new instances and enable easy replication of environments.

@@ -1,0 +1,1 @@
+These are upfront costs incurred for acquiring assets, infrastructure, or equipment. CapEx includes expenses like purchasing hardware, servers, networking equipment, and other physical assets necessary for the project.

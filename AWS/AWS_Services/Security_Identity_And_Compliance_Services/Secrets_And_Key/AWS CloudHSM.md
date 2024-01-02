@@ -1,0 +1,3 @@
+# AWS Cloud Hardware Security Module (CloudHSM)
+---------------
+AWS CloudHSM (Cloud Hardware Security Module) is a managed hardware security service that provides secure key storage and cryptographic operations. It helps you protect sensitive data and meet compliance requirements by securely generating, storing, and managing cryptographic keys and operations in dedicated hardware appliances within the AWS Cloud.

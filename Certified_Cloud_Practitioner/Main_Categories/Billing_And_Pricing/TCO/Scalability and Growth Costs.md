@@ -1,0 +1,1 @@
+Consideration should be given to the ability to scale the solution over time. Both [[CapEx]] and [[OpEx]] will be influenced by how easily the solution can accommodate growth in terms of users, data volume, and processing requirements.

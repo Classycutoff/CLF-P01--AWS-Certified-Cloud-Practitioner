@@ -1,0 +1,1 @@
+The AWS Simple Monthly Calculator is a web-based tool that allows you to estimate the monthly cost of using various AWS services based on your usage patterns and requirements. You can access it at the following link: [AWS Simple Monthly Calculator](https://calculator.aws/)

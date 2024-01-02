@@ -1,0 +1,1 @@
+A hybrid cloud is a cloud computing environment that combines the use of both [[Public Cloud]] and [[Private Cloud]] resources, allowing data and applications to be shared between them. It's a strategic approach that aims to leverage the benefits of both public and private clouds while addressing certain limitations and concerns.

@@ -1,0 +1,5 @@
+Basic Support is included for all AWS customers and includes:
+
+- **Customer Service and Communities** - 24x7 access to customer service, [documentation](https://docs.aws.amazon.com/), [whitepapers](https://aws.amazon.com/whitepapers/), and [AWS re:Post.](https://www.repost.aws/)
+- **AWS [[AWS Trusted Advisor]]: [LINK](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)** - Access to core Trusted Advisor [checks](https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor-check-reference.html) and guidance to provision your resources following best practices to increase performance and improve security.
+- AWS [[Personal Health Dashboard]]: [LINK](https://aws.amazon.com/premiumsupport/technology/personal-health-dashboard/) - A personalized view of the health of AWS services, and alerts when your resources are impacted.

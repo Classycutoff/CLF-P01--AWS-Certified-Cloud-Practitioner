@@ -1,0 +1,1 @@
+A Virtual Private Network (VPN) is a technology that creates a secure and encrypted connection between two or more devices or networks over the internet. The primary purpose of a VPN is to provide a secure way to access resources, share data, and communicate privately, especially when using public networks such as the internet.

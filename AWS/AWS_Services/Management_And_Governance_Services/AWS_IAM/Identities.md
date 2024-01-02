@@ -1,0 +1,1 @@
+Identities are the IAM resource objects that are used to identify and group. You can attach a [[IAM policies]] to an IAM identity. These include users, groups, and roles.

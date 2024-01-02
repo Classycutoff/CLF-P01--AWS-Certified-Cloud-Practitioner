@@ -1,0 +1,1 @@
+Encryption in transit, also known as "data in transit" encryption, focuses on securing data while it's being transmitted between different devices or locations. This is especially important when data is moving over networks, such as the internet, local area networks ([[LAN]]s), or wide area networks ([[WAN]]s).

@@ -1,0 +1,1 @@
+DNS, or Domain Name System, is like the internet's phonebook. It translates user-friendly domain names (like [google.com](google.com)) into [[IP address]]es computers use to locate websites and services. It enables humans to access online resources without needing to remember complex numerical addresses.

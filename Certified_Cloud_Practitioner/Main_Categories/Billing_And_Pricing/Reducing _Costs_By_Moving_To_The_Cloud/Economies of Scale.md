@@ -1,0 +1,1 @@
+Cloud providers operate at a massive scale, which enables them to provide resources and services at lower costs compared to on-premises solutions. Organizations can take advantage of these economies of scale by using cloud services rather than building and maintaining their own infrastructure.

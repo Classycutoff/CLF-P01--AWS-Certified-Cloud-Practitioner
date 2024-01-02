@@ -1,0 +1,2 @@
+  
+The public internet refers to the global network of interconnected devices, servers, and networks accessible to anyone with an internet connection. It's a shared space where information, data, and services are exchanged and accessed across the world.

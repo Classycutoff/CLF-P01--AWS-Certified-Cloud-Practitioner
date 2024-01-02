@@ -1,0 +1,2 @@
+# Vertical Scaling
+Vertical scaling (or "scaling up") refers to adding more hardware to an existing machine so that you run the same workload on better specs. For example, **if a server requires more processing power, vertically scaling the device would mean upgrading its CPU**.

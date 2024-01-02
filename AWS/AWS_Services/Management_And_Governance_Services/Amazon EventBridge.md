@@ -1,0 +1,1 @@
+Amazon EventBridge is a [[serverless]] event bus service by AWS that facilitates communication between applications using events. It simplifies event-driven architectures by routing events from different sources to various targets, enabling seamless integration and coordination among services.

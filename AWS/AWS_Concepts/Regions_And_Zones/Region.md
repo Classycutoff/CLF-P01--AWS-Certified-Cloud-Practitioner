@@ -1,0 +1,1 @@
+A Region is a geographical area of the world that is a collection of data centers logically grouped into [[Availability Zone]]s.

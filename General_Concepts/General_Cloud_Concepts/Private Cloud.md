@@ -1,0 +1,1 @@
+A private cloud is a cloud infrastructure that is dedicated to a single organization or entity. It is designed to offer the benefits of cloud computing, such as scalability, flexibility, and resource optimization, while providing a higher level of control, security, and customization

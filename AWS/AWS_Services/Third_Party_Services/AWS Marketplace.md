@@ -1,0 +1,2 @@
+  
+AWS Marketplace is an online platform provided by Amazon Web Services (AWS) that allows customers to discover, purchase, and deploy a wide range of software products and solutions. It acts as a digital catalog where third-party software vendors can list their products, and customers can easily browse, compare, and acquire these products to enhance their AWS environment and applications.

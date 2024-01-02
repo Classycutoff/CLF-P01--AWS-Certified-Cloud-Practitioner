@@ -1,0 +1,30 @@
+
+- AWS [[AWS Trusted Advisor]] Best Practice Checks
+	- Service Quota and basic Security checks
+- AWS Trusted Advisor Priority
+	- No
+- Enhanced Technical Support
+	- Business hours web access to Cloud Support Associates
+	- Unlimited cases with 1 primary contact 
+	- Prioritized responses on AWS re:Post
+- Case Severity / Response Times
+	- General guidance: < 24 hours
+	- System impaired: < 12 hours
+- Architectural Guidance
+	- General
+- Programmatic Case Management
+	- No
+- Third-Party Software Support
+	- No
+- Proactive Programs and Self Service
+	- Access to Support Automation Workflows with prefixes AWSSupport
+- AWS Incident Detection and Response
+	- No
+- AWS Managed Services
+	- No
+- Technical Account Management
+	- No
+- Training
+	- No
+- Account Assistance
+	- No

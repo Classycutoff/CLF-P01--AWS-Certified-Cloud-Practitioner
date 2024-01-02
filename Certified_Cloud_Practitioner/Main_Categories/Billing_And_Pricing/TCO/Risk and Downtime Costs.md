@@ -1,0 +1,1 @@
+Unforeseen events such as outages, security breaches, and data loss can result in additional costs due to downtime, data recovery, legal ramifications, and potential damage to reputation. These risks should be considered in the TCO analysis.

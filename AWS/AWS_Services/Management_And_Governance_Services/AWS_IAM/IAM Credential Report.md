@@ -1,0 +1,1 @@
+The IAM credential report lists all the users and the status of their various credentials, including passwords, access keys, server certificates, and [[MFA]] devices.

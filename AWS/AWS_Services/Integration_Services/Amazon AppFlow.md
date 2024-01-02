@@ -1,0 +1,1 @@
+Amazon AppFlow is a fully managed integration service provided by Amazon Web Services (AWS) that allows you to securely and efficiently transfer data between different software applications and AWS services. It simplifies the process of setting up data flows between various systems, making it easier to automate data movement and synchronization.

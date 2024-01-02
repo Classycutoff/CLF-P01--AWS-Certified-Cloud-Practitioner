@@ -1,0 +1,1 @@
+AWS MQ is a managed message broker service that enables decoupled communication between applications by supporting popular messaging protocols like Apache ActiveMQ and RabbitMQ, ensuring reliable and scalable message delivery.

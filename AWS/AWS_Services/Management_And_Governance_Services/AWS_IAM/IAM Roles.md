@@ -1,0 +1,14 @@
+
+
+An IAM _role_ is an IAM identity that you can create in your account that has specific permissions. An IAM role is similar to an IAM user, in that it is an AWS identity with permission policies that determine what the identity can and cannot do in AWS. However, instead of being uniquely associated with one person, a role is intended to be assumable by anyone who needs it. Also, a role does not have standard long-term credentials such as a password or access keys associated with it. Instead, when you assume a role, it provides you with temporary security credentials for your role session.
+
+
+
+
+
+-----
+## Cloud Guru Question
+
+IAM role
+
+IAM roles are not associated with a specific user or group. Roles are meant to be assumed by anyone who needs it for a temporary period of time.

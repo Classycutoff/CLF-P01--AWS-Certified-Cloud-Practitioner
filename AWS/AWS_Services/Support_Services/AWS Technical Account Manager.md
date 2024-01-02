@@ -1,0 +1,4 @@
+A Technical Account Manager (TAM) provides consultative architectural and operational guidance delivered in the context of your applications and use-cases to help you achieve the greatest value from AWS. The TAM will work with you to provide tailored engagements including strategic Business Reviews, Security Improvement Programs, guided Well-Architected reviews, Cost Optimization workshops, and a range of proactive services. TAMs throughout your journey will consult on architecture, governance, security, and operations, including cost management and other pillars of building on AWS. They will also cover progress made towards your desired outcomes, and to validate the planned outcomes in subsequent periods of performance.
+
+- [[Support Plans]]
+- [[Enterprise Support]]

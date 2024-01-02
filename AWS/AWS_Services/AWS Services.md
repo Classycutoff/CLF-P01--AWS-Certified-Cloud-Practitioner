@@ -1,0 +1,127 @@
+# AWS Services
+---------
+## List of Resources
+- [[Analytics Services]]
+	- Athena
+	- EMR
+	- Kinesis
+	- Quicksight
+	- Data Pipeline
+	- Glue
+	- Redshift
+- [[Compliance Services]]
+	- AWS Artifact
+	- AWS Compliance Center
+- [[Compute Services]]
+	- EC2
+	- ECS
+	- EKS
+	- Lightsail
+	- Fargate
+	- Elastic Beanstalk
+	- Lambda
+- [[Database Services]]
+	- Aurora
+	- DocumentDB
+	- DynamoDB
+	- ElastiCache
+	- Neptune
+	- RDS
+- [[Developer Tools]]
+	- CodeCommit
+	- CodeDeploy
+	- CodePipeline
+	- CodeStar
+- [[Integration Services]]
+	- MQ
+- [[IoT Services]]
+	- IoT Analytics
+	- IoT Core
+	- IoT Device Management
+	- IoT Greengrass
+- [[Machine Learning and AI Services]]
+	- AI Services
+	- SageMaker
+- [[Management And Governance Services]]
+	- AWS Billing and Pricing
+		- Budgets
+		- Cost and Usage Report
+		- Cost Explorer
+		- AWS Pricing Calculator
+		- AWS Pricing Calculator vs AWS Cost Explorer
+	- AWS CloudFormation
+	- AWS CloudWatch
+	- AWS Config
+	- AWS IAM
+	- AWS OpsWorks
+	- AWS Systems Manager
+	- AWS Trusted Advisor
+	- AWS Management Console
+	- AWS Personal Health Dashboard
+- [[Messaging and Communication Services]]
+	- AWS SES
+	- AWS SNS
+	- AWS SQS
+- [[Migration Services]]
+	- Application Discovery Service
+	- Application Migration Service
+	- AWS Database Migration Service
+	- AWS DataSync
+	- Migration Hub
+	- Service Catalog
+- [[Network Services]]
+	- Access Control Lists
+	- AWS Cloudfront
+	- AWS Direct Connect
+	- AWS Route 53
+	- AWS Shield
+	- AWS VPN
+	- AWS VPC
+		- AWS Transit Gateway
+		- VPC Endpoint
+		- VPC Flow Logs
+		- VPC Peering
+		- AWS Transit Gateway
+	- AWS WAF
+	- Elastic Load Balancers
+		- Application Load Balancer
+		- Classic Load Balancer
+		- Gateway Load Balancer
+		- Network Load Balancer
+	- Other Networking Options
+		- Secure Connection Options
+- [[Security, Identity and Compliance Services]]
+	- AWS Cognito
+	- AWS GuardDuty
+	- AWS Inspector
+	- AWS Macie
+	- AWS Security Hub
+	- Secrets and Key
+		- AWS CloudHSM
+		- Key Management Service (KMS)
+		- Secrets Manager
+	- STS
+- [[Snow Family]]
+	- AWS Snowball
+	- AWS Snowball Edge
+	- AWS Snowcone
+	- AWS Snowmobile
+- [[Storage Services]]
+	- AWS S3
+		- Access Control Lists (ACLs)
+		- Bucket Policies
+		- Bucket Tiers
+	- Amazon EBS
+	- Amazon EFS
+	- EBS vs EFS vs S3
+- [[Support Services]]
+	- AWS Knowledge Center
+	- AWS Support
+	- AWS Trust & Safety Team
+- [[Third Party Services]]
+	- AWS Marketplace
+
+---------------------------
+### Other Random
+- [[Elastic Services]]
+- [[Services starting with Cloud]]

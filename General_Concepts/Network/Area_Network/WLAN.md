@@ -1,0 +1,1 @@
+A Wireless Local Area Network (WLAN) is a variation of a LAN where the devices are connected wirelessly using Wi-Fi technology. WLANs offer the convenience of wireless connectivity within a limited area, such as a home, office, or public hotspot. They allow devices to connect to the network without the need for physical cables.

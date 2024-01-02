@@ -1,0 +1,1 @@
+Entities are the IAM resource objects that AWS uses for authentication. These include IAM users, federated users, and assumed IAM roles.

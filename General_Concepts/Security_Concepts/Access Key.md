@@ -1,0 +1,1 @@
+An access key is a set of credentials used to authenticate and access resources within a system or service. It's commonly used in cloud computing platforms, such as Amazon Web Services (AWS), to enable secure interactions between users or applications and the platform's services.
